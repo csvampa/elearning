@@ -12,10 +12,10 @@ else:
 
 def menu():
     print("\n Elija una opción: ")
-    print("    (a) Agregar producto")
-    print("    (e) Eliminar producto")
-    print("    (l) Listar producto")
-    print("    (m) Modificar producto")
+    print("    (a) Agregar liquidacion")
+    print("    (e) Eliminar liquidacion")
+    print("    (l) Listar liquidaciones")
+    print("    (m) Modificar liquidacion")
     print("    ó cualquier otra tecla para salir")
     global valor
     global eleccion
